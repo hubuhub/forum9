@@ -1,6 +1,6 @@
 # a collection of user review
 reviews:
-  name: "krambambula.github.io"
+  name: "/kram"
   
   # we enable moderation, Pull Request will be created for every review
   moderation: false
